@@ -88,7 +88,6 @@ Esto detendrá y eliminará los contenedores, pero las imágenes permanecerán p
 - El archivo `docker-compose.yml` orquesta los servicios, asignando sus puertos y definiendo sus configuraciones de construcción.
 - Este ejemplo es intencionalmente simple, pero puede extenderse con servicios adicionales, bases de datos o comunicación entre servicios.
 
-
 ## Solución de Problemas
 
 - **Conflictos de Puertos**: Asegúrate de que los puertos `3001` y `3002` no estén en uso por otras aplicaciones.
