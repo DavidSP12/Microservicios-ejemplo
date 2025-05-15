@@ -31,7 +31,7 @@ Este proyecto demuestra una arquitectura simple de microservicios utilizando Nod
 
 2. **Navegar al Directorio del Proyecto**:
    ```bash
-   cd microservices-example
+   cd Microservicios-ejemplo
    ```
 
 3. **Construir y Ejecutar los Servicios**:
