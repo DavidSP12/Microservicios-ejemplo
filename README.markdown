@@ -37,7 +37,7 @@ Este proyecto demuestra una arquitectura simple de microservicios utilizando Nod
 3. **Construir y Ejecutar los Servicios**:
    - Usa Docker Compose para construir y levantar los contenedores:
      ```bash
-     docker-compose up --build
+     sudo docker-compose up --build
      ```
    - Este comando construye las imágenes Docker para ambos servicios y levanta los contenedores.
    - El **Servicio de Usuarios** se ejecutará en `http://localhost:3001`, y el **Servicio de Productos** en `http://localhost:3002`.
